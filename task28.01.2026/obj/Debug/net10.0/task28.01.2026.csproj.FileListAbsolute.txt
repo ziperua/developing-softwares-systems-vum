@@ -1,0 +1,14 @@
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\bin\Debug\net10.0\task28.01.2026.exe
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\bin\Debug\net10.0\task28.01.2026.deps.json
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\bin\Debug\net10.0\task28.01.2026.runtimeconfig.json
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\bin\Debug\net10.0\task28.01.2026.dll
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\bin\Debug\net10.0\task28.01.2026.pdb
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.AssemblyInfoInputs.cache
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.AssemblyInfo.cs
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.dll
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\refint\task28.01.2026.dll
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.pdb
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\task28.01.2026.genruntimeconfig.cache
+C:\Users\User\Documents\broCode\task28.01.2026\task28.01.2026\obj\Debug\net10.0\ref\task28.01.2026.dll
